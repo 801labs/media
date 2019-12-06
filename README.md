@@ -1,2 +1,2 @@
 # media
-Were we host our public logos, mediakits, etc.
+Where we host our public logos, mediakits, etc.
